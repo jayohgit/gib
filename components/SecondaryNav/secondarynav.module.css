@@ -1,0 +1,12 @@
+.secondary-list {
+  border: 1px solid blue;
+  width: 100vw;
+}
+
+.top-menu {
+  display: flex;
+}
+
+ul.flex > li {
+  padding-left: 8rem;
+}

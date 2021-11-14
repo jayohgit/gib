@@ -1,0 +1,29 @@
+/*
+You do not need to worry about .error {} colliding with any other `.css` or
+`.module.css` files!
+*/
+.global-nav {
+  /* color: #f5f5f5;
+  background-color: #004070;
+  padding: 1.3rem;
+  width: 80vw; */
+}
+
+.nav-list {
+  color: #f5f5f5;
+  background-color: #004070;
+  padding: 1.3rem;
+  width: 100vw;
+  justify-content: space-around;
+}
+
+.nav-auth-button {
+  background-color: #E00D42;
+  margin: -1.3rem;
+  padding: 1.3rem;
+  text-align: center;
+}
+
+.right-side {
+  margin-left: auto;
+}
